@@ -1,5 +1,5 @@
 
-        =======  =======
+        ======= readmeGen =======
 
         ## Table of contents:
         
@@ -14,39 +14,39 @@
         
         ## Github: 
         
-        https://github.com/
+        https://github.com/eminss
         
         ## email: 
         
-        
+        jadenstorey@hotmail.com
         
         ## Description: 
         
-        
+        This project takes input from a user and returns them with a professional readme
         
         ## Installation instructions:
         
         Run the following commands in your integrated terminal.
         
-        
+        "npm init" "npm install inquirer"
         
         ## test commands:
         
-        
+        npm run test
         
         ## Repo Info:
         
-        
+        n/a
         
         ## Contributing to Repo:
         
-        
+        put in some pull requests :)
 
         ## License:
 
         MIT License
 
-                Copyright (c) 2012 
+                Copyright (c) 2022 eminss
                 
                 Permission is hereby granted, free of charge, to any person obtaining a copy
                 of this software and associated documentation files (the "Software"), to deal
@@ -65,5 +65,6 @@
                 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
                 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
                 SOFTWARE.
-                ![MIT Badge](https://img.shields.io/badge/MIT-eminss-blue?style=for-the-badge&logo=appveyor)
+                
+                ![MIT License Badge](https://img.shields.io/badge/MIT-eminss-blue?style=for-the-badge&logo=appveyor)
         
